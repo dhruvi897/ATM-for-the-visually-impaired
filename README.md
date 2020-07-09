@@ -1,6 +1,6 @@
 # ATM-for-the-Visually-Impaired-
 
-PYTHON  MINI Project : 
+A PYTHON  MINI Project : 
 
 LIBRARIES USED: pyttsx3 , random, gtts, speech_recognition , os, csv, getpass_ak , datetime .
 
